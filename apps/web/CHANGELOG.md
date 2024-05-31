@@ -1,0 +1,44 @@
+# Changelog
+
+## [1.1.0](https://github.com/axeen/release-please-test/compare/web-v1.0.0...web-v1.1.0) (2024-05-31)
+
+
+### Features
+
+* **create-turbo:** apply pnpm-eslint transform ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* **create-turbo:** install dependencies ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* some flare ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* **ui/button:** make alert more slavic ([#5](https://github.com/axeen/release-please-test/issues/5)) ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* **ui/button:** make alert western again ([#6](https://github.com/axeen/release-please-test/issues/6)) ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* update button copy ([#3](https://github.com/axeen/release-please-test/issues/3)) ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+
+
+### Bug Fixes
+
+* guess this is what they mean by empty? ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+
+## 1.0.0 (2024-05-31)
+
+
+### Features
+
+* **create-turbo:** apply pnpm-eslint transform ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* **create-turbo:** install dependencies ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* some flare ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* **ui/button:** make alert more slavic ([#5](https://github.com/axeen/release-please-test/issues/5)) ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* **ui/button:** make alert western again ([#6](https://github.com/axeen/release-please-test/issues/6)) ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+* update button copy ([#3](https://github.com/axeen/release-please-test/issues/3)) ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+
+
+### Bug Fixes
+
+* guess this is what they mean by empty? ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
+
+## 1.0.0 (2024-05-31)
+
+
+### Features
+
+* **create-turbo:** apply official-starter transform ([dd731c3](https://github.com/axeen/release-please-test/commit/dd731c3c11c30de7a68ec0e5a003d94434172920))
+* some flare ([02d203b](https://github.com/axeen/release-please-test/commit/02d203b822b1c57ee40b3f353be6ae52d8e50d3e))
+* update button copy ([#3](https://github.com/axeen/release-please-test/issues/3)) ([0d96164](https://github.com/axeen/release-please-test/commit/0d9616428decde8da7794c609e5fe4e19c259713))
