@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/axeen/release-please-test/compare/web-v1.2.1...web-v1.3.0) (2024-06-09)
+
+
+### Features
+
+* please ([e8f8e7e](https://github.com/axeen/release-please-test/commit/e8f8e7e23054ba0675312af86f374e088084a52a))
+
 ## [1.2.1](https://github.com/axeen/release-please-test/compare/web-v1.2.0...web-v1.2.1) (2024-06-09)
 
 
