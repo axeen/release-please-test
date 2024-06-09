@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/axeen/release-please-test/compare/ui-v1.2.0...ui-v1.3.0) (2024-06-09)
+
+
+### Features
+
+* experiment2 ([4c4520e](https://github.com/axeen/release-please-test/commit/4c4520edfe784ad39f9ce35cd2b1b1c475b8c8f4))
+
 ## [1.2.0](https://github.com/axeen/release-please-test/compare/ui-v1.1.1...ui-v1.2.0) (2024-06-09)
 
 
