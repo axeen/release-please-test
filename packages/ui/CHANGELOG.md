@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/axeen/release-please-test/compare/ui-v1.1.0...ui-v1.1.1) (2024-06-09)
+
+
+### Bug Fixes
+
+* **ui:** lets calm down a little ([f3295df](https://github.com/axeen/release-please-test/commit/f3295df0fc908a5e4ddc66fd7e9f4da1f600518f))
+
 ## [1.1.0](https://github.com/axeen/release-please-test/compare/ui-v1.0.0...ui-v1.1.0) (2024-06-09)
 
 
