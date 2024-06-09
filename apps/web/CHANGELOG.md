@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.4.0](https://github.com/axeen/release-please-test/compare/web-v1.3.1...web-v1.4.0) (2024-06-09)
+
+
+### Features
+
+* **start page:** flare ([8b80726](https://github.com/axeen/release-please-test/commit/8b807269e44466806da10ae4e2feca7f2b87c5c9))
+
+
+### Bug Fixes
+
+* calm ([e6f4f99](https://github.com/axeen/release-please-test/commit/e6f4f992a8b865505ecf372d3608129ee39be73f))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @repo/ui bumped from 1.2.0 to 1.3.0
+
 ## [1.3.1](https://github.com/axeen/release-please-test/compare/web-v1.3.0...web-v1.3.1) (2024-06-09)
 
 
