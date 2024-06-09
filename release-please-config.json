@@ -1,6 +1,7 @@
 {
-  "always-link-local": true,
   "separate-pull-requests": true,
+  "always-link-local": true,
+  "monorepo-tags": true,
   "packages": {
     "apps/docs": {},
     "apps/web": {},
