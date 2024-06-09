@@ -1,7 +1,7 @@
 {
   "separate-pull-requests": true,
-  "always-link-local": true,
   "include-component-in-tag": true,
+  "plugins": ["node-workspace"],
   "packages": {
     "apps/docs": {},
     "apps/web": {},
