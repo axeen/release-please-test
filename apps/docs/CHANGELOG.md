@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.1](https://github.com/axeen/release-please-test/compare/docs-v2.0.0...docs-v2.0.1) (2024-06-09)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @repo/ui bumped to 1.1.1
+
 ## [2.0.0](https://github.com/axeen/release-please-test/compare/docs-v1.0.1...docs-v2.0.0) (2024-06-09)
 
 
