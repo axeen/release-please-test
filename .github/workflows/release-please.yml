@@ -23,3 +23,6 @@ jobs:
           # for more options
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
+      - name: Update lockfile
+        if: ${{ steps.release.outputs.release_created }}
+        run: pnpm i
