@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/axeen/release-please-test/compare/ui-v1.3.0...ui-v1.3.1) (2024-06-09)
+
+
+### Bug Fixes
+
+* calm test ([cb62dd0](https://github.com/axeen/release-please-test/commit/cb62dd03a25e698bd27d7c20541d50e2506b6760))
+* ui test ([e2c4c65](https://github.com/axeen/release-please-test/commit/e2c4c65eff73a0b7d61c8dfe8f6badbcc92d1e12))
+
 ## [1.3.0](https://github.com/axeen/release-please-test/compare/ui-v1.2.0...ui-v1.3.0) (2024-06-09)
 
 

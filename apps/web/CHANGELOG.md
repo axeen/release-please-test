@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.4.1](https://github.com/axeen/release-please-test/compare/web-v1.4.0...web-v1.4.1) (2024-06-09)
+
+
+### Bug Fixes
+
+* test ([f075a7e](https://github.com/axeen/release-please-test/commit/f075a7ebb340b66036a67858df4589129592dfaf))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @repo/ui bumped from 1.3.0 to 1.3.1
+
 ## [1.4.0](https://github.com/axeen/release-please-test/compare/web-v1.3.1...web-v1.4.0) (2024-06-09)
 
 
