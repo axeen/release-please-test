@@ -5,6 +5,13 @@
 
 ### Features
 
+* add flare ([d97afd7](https://github.com/axeen/release-please-test/commit/d97afd7d290e0be69deb1035221d5521070612a8))
+
+## [1.1.0](https://github.com/axeen/release-please-test/compare/web-v1.0.0...web-v1.1.0) (2024-05-31)
+
+
+### Features
+
 * **create-turbo:** apply pnpm-eslint transform ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
 * **create-turbo:** install dependencies ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))
 * some flare ([d9af0a7](https://github.com/axeen/release-please-test/commit/d9af0a76359eed54a1649e3e7f2fd256df9728cc))

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/axeen/release-please-test/compare/docs-v1.0.0...docs-v1.0.1) (2024-05-31)
+
+
+### Bug Fixes
+
+* format docs page ([503a886](https://github.com/axeen/release-please-test/commit/503a886a5441d88192f60a686eae71662eda834a))
+
 ## [1.1.0](https://github.com/axeen/release-please-test/compare/docs-v1.0.0...docs-v1.1.0) (2024-05-31)
 
 
