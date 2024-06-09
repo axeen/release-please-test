@@ -1,5 +1,4 @@
 {
-  "separate-pull-requests": true,
   "include-component-in-tag": true,
   "plugins": ["node-workspace"],
   "packages": {
