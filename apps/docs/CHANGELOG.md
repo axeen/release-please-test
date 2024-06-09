@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.0.1](https://github.com/axeen/release-please-test/compare/docs-v3.0.0...docs-v3.0.1) (2024-06-09)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @repo/ui bumped from 1.1.1 to 1.2.0
+
 ## [3.0.0](https://github.com/axeen/release-please-test/compare/docs-v2.0.1...docs-v3.0.0) (2024-06-09)
 
 
