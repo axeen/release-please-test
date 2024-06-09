@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.0.0](https://github.com/axeen/release-please-test/compare/docs-v1.0.1...docs-v2.0.0) (2024-06-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* lang change
+
+### Features
+
+* lang change ([e5ad6d7](https://github.com/axeen/release-please-test/commit/e5ad6d7f0e9432a68ab6552e30eb7a2fd9cdf634))
+* please ([e8f8e7e](https://github.com/axeen/release-please-test/commit/e8f8e7e23054ba0675312af86f374e088084a52a))
+
+
+### Bug Fixes
+
+* change lang back ([971840c](https://github.com/axeen/release-please-test/commit/971840c6a9b70cd9e7d44acf49bb426200b8f909))
+* cleanup ([ad0350f](https://github.com/axeen/release-please-test/commit/ad0350f43b87bb26a2ac77951340b5028cc72db0))
+
 ## [1.0.1](https://github.com/axeen/release-please-test/compare/docs-v1.0.0...docs-v1.0.1) (2024-05-31)
 
 
