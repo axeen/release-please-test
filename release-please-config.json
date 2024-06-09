@@ -1,4 +1,8 @@
 {
-  "include-component-in-tag": true,
-  "plugins": ["node-workspace"]
+  "plugins": ["node-workspace"],
+  "packages": {
+    "apps/docs": {},
+    "apps/web": {},
+    "packages/ui": {}
+  }
 }
