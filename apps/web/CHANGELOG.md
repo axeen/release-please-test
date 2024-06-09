@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.1](https://github.com/axeen/release-please-test/compare/web-v1.3.0...web-v1.3.1) (2024-06-09)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @repo/ui bumped from 1.1.1 to 1.2.0
+
 ## [1.3.0](https://github.com/axeen/release-please-test/compare/web-v1.2.1...web-v1.3.0) (2024-06-09)
 
 
