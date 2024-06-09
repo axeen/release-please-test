@@ -1,4 +1,5 @@
 {
+  "always-link-local": true,
   "separate-pull-requests": true,
   "packages": {
     "apps/docs": {},
