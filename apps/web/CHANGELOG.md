@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/axeen/release-please-test/compare/web-v1.7.0...web-v1.8.0) (2024-06-14)
+
+
+### Features
+
+* come on ([4d4d38f](https://github.com/axeen/release-please-test/commit/4d4d38f8f796bc6fab16e0437a1d48d8ca11ca99))
+
 ## [1.7.0](https://github.com/axeen/release-please-test/compare/web-v1.6.0...web-v1.7.0) (2024-06-14)
 
 
