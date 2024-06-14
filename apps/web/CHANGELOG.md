@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/axeen/release-please-test/compare/web-v1.5.0...web-v1.6.0) (2024-06-14)
+
+
+### Features
+
+* suspense ([65b50d8](https://github.com/axeen/release-please-test/commit/65b50d84486434761d721c753cb6a305d99c8291))
+
 ## [1.5.0](https://github.com/axeen/release-please-test/compare/web-v1.4.0...web-v1.5.0) (2024-06-14)
 
 
