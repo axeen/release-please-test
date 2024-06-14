@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/axeen/release-please-test/compare/web-v1.6.0...web-v1.7.0) (2024-06-14)
+
+
+### Features
+
+* getting closer ([95f96fb](https://github.com/axeen/release-please-test/commit/95f96fb74242d10c207488c4b9417fbba496f089))
+
 ## [1.6.0](https://github.com/axeen/release-please-test/compare/web-v1.5.0...web-v1.6.0) (2024-06-14)
 
 
