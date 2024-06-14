@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.5.0](https://github.com/axeen/release-please-test/compare/web-v1.4.0...web-v1.5.0) (2024-06-14)
+
+
+### Features
+
+* lets see if 16.12 works as intended ([e5198b2](https://github.com/axeen/release-please-test/commit/e5198b28b1f2c48e1b2cde7ec1ff8144f51d4e6a))
+
+
+### Bug Fixes
+
+* test ([0d11d5a](https://github.com/axeen/release-please-test/commit/0d11d5a65929af5b895a6987f5bf367e304387c9))
+* test ([f075a7e](https://github.com/axeen/release-please-test/commit/f075a7ebb340b66036a67858df4589129592dfaf))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @repo/ui bumped from 1.3.0 to 1.3.1
+
 ## [1.4.0](https://github.com/axeen/release-please-test/compare/web-v1.3.1...web-v1.4.0) (2024-06-09)
 
 

@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.0.3](https://github.com/axeen/release-please-test/compare/docs-v3.0.2...docs-v3.0.3) (2024-06-14)
+
+
+### Bug Fixes
+
+* dot dot dot ([ad6b6df](https://github.com/axeen/release-please-test/commit/ad6b6dfe839fb5544c0f0e4450e3cba61007d8e5))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @repo/ui bumped from 1.3.0 to 1.3.1
+
 ## [3.0.2](https://github.com/axeen/release-please-test/compare/docs-v3.0.1...docs-v3.0.2) (2024-06-09)
 
 
