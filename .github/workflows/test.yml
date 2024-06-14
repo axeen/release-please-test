@@ -8,11 +8,12 @@ on:
 jobs:
   conditional-merge:
     runs-on: ubuntu-latest
-    if: "${{ github.event.pull_request.merged == true && startsWith(github.event.pull_request.title, 'chore: release master') }}"
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
       # Add your steps here
       - name: Run custom script
-        run: echo "This is a merge from a PR with a title starting with 'feat/'"
+        run: |
+          echo ${{ github.event.pull_request.merged }}
+          echo ${{ github.event.pull_request.title }}
