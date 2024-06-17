@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.2](https://github.com/axeen/release-please-test/compare/web-v1.8.1...web-v1.8.2) (2024-06-17)
+
+
+### Bug Fixes
+
+* add suspense back ([fe0d532](https://github.com/axeen/release-please-test/commit/fe0d53214b98cacb48bc706a7e7eaf3f962cf939))
+
 ## [1.8.1](https://github.com/axeen/release-please-test/compare/web-v1.8.0...web-v1.8.1) (2024-06-17)
 
 
