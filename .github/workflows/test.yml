@@ -5,11 +5,11 @@ on:
     types:
       - closed
     branches:
-      - master
+      - release-please--branches--master
 
 jobs:
   conditional-merge:
-    if: github.event.pull_request.merged == true && github.ref_name == 'release-please--branches--master'
+    if: github.event.pull_request.merged == true && github.ref_name == 'master'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
