@@ -45,5 +45,5 @@ jobs:
       - name: Move changes on 'develop' into release branch
         if: ${{ steps.release.outputs.releases_created }}
         run: |
-          git rebase develop
+          git rebase origin/develop
           git push --force-with-lease
