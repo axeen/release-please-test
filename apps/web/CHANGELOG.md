@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.1](https://github.com/axeen/release-please-test/compare/web-v1.8.0...web-v1.8.1) (2024-06-17)
+
+
+### Bug Fixes
+
+* clean up ([#22](https://github.com/axeen/release-please-test/issues/22)) ([5177e40](https://github.com/axeen/release-please-test/commit/5177e405bd6b4bb977dd94ee30efc23b96419f94))
+* keep dotting ([4782a75](https://github.com/axeen/release-please-test/commit/4782a75f0153f04e7f31f0e91dd77c9e5e768610))
+
 ## [1.8.0](https://github.com/axeen/release-please-test/compare/web-v1.7.0...web-v1.8.0) (2024-06-14)
 
 
