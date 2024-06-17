@@ -24,23 +24,25 @@ jobs:
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
           target-branch: master
-  merge-changes:
-    runs-on: ubuntu-latest
-    steps:
+
       - name: Checkout repository
+        if: ${{ steps.release.outputs.release_created }}
         uses: actions/checkout@v2
         with:
           ref: release-please--branches--master
 
       - name: Set up Git
+        if: ${{ steps.release.outputs.release_created }}
         run: |
           git config user.name "$(git log -n 1 --pretty=format:%an)"
           git config user.email "$(git log -n 1 --pretty=format:%ae)"
 
       - name: Fetch all branches
+        if: ${{ steps.release.outputs.release_created }}
         run: git fetch origin
 
       - name: Move changes on 'develop' into release branch
+        if: ${{ steps.release.outputs.release_created }}
         run: |
-          git rebase origin/develop
+          git rebase develop
           git push --force-with-lease
