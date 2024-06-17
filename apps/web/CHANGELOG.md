@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.11.0](https://github.com/axeen/release-please-test/compare/web-v1.10.0...web-v1.11.0) (2024-06-17)
+
+
+### Features
+
+* flare is back ([c5e08cd](https://github.com/axeen/release-please-test/commit/c5e08cd56ea4b9e19444c8f446c6a05cad132c9a))
+* suspense is back ([c79754f](https://github.com/axeen/release-please-test/commit/c79754f6355abe8525573a09d8dc8c64a930529b))
+
+
+### Bug Fixes
+
+* huh is back ([5c44bf7](https://github.com/axeen/release-please-test/commit/5c44bf788224733bea5bb018fe0072f93b88d3e1))
+
 ## [1.10.0](https://github.com/axeen/release-please-test/compare/web-v1.9.0...web-v1.10.0) (2024-06-17)
 
 
