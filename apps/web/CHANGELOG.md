@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.10.0](https://github.com/axeen/release-please-test/compare/web-v1.9.0...web-v1.10.0) (2024-06-17)
+
+
+### Features
+
+* dev change ([1c167c2](https://github.com/axeen/release-please-test/commit/1c167c2c4f9ecc892535c4c59425a64cff3cfe00))
+* flare is back ([c5e08cd](https://github.com/axeen/release-please-test/commit/c5e08cd56ea4b9e19444c8f446c6a05cad132c9a))
+* huh ([a46b43f](https://github.com/axeen/release-please-test/commit/a46b43fb70f52b044c9b403226e22b9bb85f4cbf))
+* suspense is back ([c79754f](https://github.com/axeen/release-please-test/commit/c79754f6355abe8525573a09d8dc8c64a930529b))
+* tired of suspense ([072291c](https://github.com/axeen/release-please-test/commit/072291c2ad0fe0827a3e8c022d48f4c59b14353e))
+
+
+### Bug Fixes
+
+* ... ([7753179](https://github.com/axeen/release-please-test/commit/7753179e4f79e6e297ce6cb4b7cab1d5941872d9))
+* damn you all to hell ([58b52d1](https://github.com/axeen/release-please-test/commit/58b52d14c6fcf35d4f95386d9b304b67a96ad928))
+* huh is back ([5c44bf7](https://github.com/axeen/release-please-test/commit/5c44bf788224733bea5bb018fe0072f93b88d3e1))
+* merge ([d00a335](https://github.com/axeen/release-please-test/commit/d00a335c839f982f6997faa3465f77ed1b2a6249))
+
 ## [1.9.0](https://github.com/axeen/release-please-test/compare/web-v1.8.2...web-v1.9.0) (2024-06-17)
 
 
