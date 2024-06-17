@@ -28,7 +28,7 @@ jobs:
 
       - name: Debug Outputs
         run: |
-          echo ${{ steps }}
+          echo ${{ toJson(steps) }}
 
       - name: Checkout repository
         if: ${{ steps.release.outputs.release_created }}
