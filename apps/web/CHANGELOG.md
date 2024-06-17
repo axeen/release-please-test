@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/axeen/release-please-test/compare/web-v1.9.0...web-v1.10.0) (2024-06-17)
+
+
+### Features
+
+* dev change ([1c167c2](https://github.com/axeen/release-please-test/commit/1c167c2c4f9ecc892535c4c59425a64cff3cfe00))
+
 ## [1.9.0](https://github.com/axeen/release-please-test/compare/web-v1.8.2...web-v1.9.0) (2024-06-17)
 
 
