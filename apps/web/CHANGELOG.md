@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.9.0](https://github.com/axeen/release-please-test/compare/web-v1.8.2...web-v1.9.0) (2024-06-17)
+
+
+### Features
+
+* test again ([#24](https://github.com/axeen/release-please-test/issues/24)) ([cffc43b](https://github.com/axeen/release-please-test/commit/cffc43b3497be69ddbe7ab63174a41d360fb9daa))
+
+
+### Bug Fixes
+
+* test 3 ([#26](https://github.com/axeen/release-please-test/issues/26)) ([e8da672](https://github.com/axeen/release-please-test/commit/e8da672d9c7f5bfe1258cd443cf4d2675b3e8e42))
+
 ## [1.8.2](https://github.com/axeen/release-please-test/compare/web-v1.8.1...web-v1.8.2) (2024-06-17)
 
 
