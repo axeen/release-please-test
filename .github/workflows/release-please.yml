@@ -26,10 +26,6 @@ jobs:
           manifest-file: .release-please-manifest.json
           target-branch: master
 
-      - name: Debug Outputs
-        run: |
-          echo ${{ toJson(steps) }}
-
       - name: Checkout repository
         if: ${{ steps.release.outputs.releases_created }}
         uses: actions/checkout@v2
