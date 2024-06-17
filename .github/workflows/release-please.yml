@@ -42,6 +42,5 @@ jobs:
 
       - name: Merge branch 'feature-branch' into 'main'
         run: |
-          git checkout release-please--branches--master
-          git merge origin/develop
-          git push origin release-please--branches--master
+          git merge origin/develop --ff-only
+          git push
