@@ -40,7 +40,7 @@ jobs:
       - name: Fetch all branches
         run: git fetch origin
 
-      - name: Merge branch 'feature-branch' into 'main'
+      - name: Move changes on 'develop' into release branch
         run: |
-          git merge origin/develop --ff-only
-          git push
+          git rebase origin/develop
+          git push --force-with-lease
