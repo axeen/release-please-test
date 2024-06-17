@@ -63,7 +63,7 @@ export default function Page(): JSX.Element {
       </div>
 
       <Button appName="web" className={styles.button}>
-        please!..........
+        please!..........test
       </Button>
 
       <div className={styles.hero}>
