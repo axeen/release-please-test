@@ -28,9 +28,7 @@ jobs:
 
       - name: Debug Outputs
         run: |
-          echo ${{ steps.release.outputs.release_created }} | sed 's/./& /g'
-          echo ${{ steps.release.outputs.release_pr }} | sed 's/./& /g'
-          echo ${{ steps.release.outputs.release_tag }} | sed 's/./& /g'
+          echo ${{ steps }}
 
       - name: Checkout repository
         if: ${{ steps.release.outputs.release_created }}
